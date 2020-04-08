@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Polynomial Ten = "P" Bienso = "x">
+    <Monoial Heso = "4x" Somu = "5"/>
+    <Monoial Heso = "-7x" Somu = "3"/>
+    <Monoial Heso = "2x" Somu = "2"/>
+    <Monoial Heso = "4x" Somu = "0"/>
+</Polynomial> 

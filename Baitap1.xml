@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomerList>
+    <Customer1>
+        <FirstName>Bruce</FirstName>
+        <MiddleIntial></MiddleIntial>
+        <LastName>Lee</LastName>
+    </Customer1>
+    <Customer2>
+        <FirstName>Long</FirstName>
+        <MiddleIntial>Tieu</MiddleIntial>
+        <LastName>Ly</LastName>
+    </Customer2>
+</CustomerList>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Polynomial>
+    <Name>P</Name>
+    <Variable>x</Variable>
+    <MonoialOne>
+        <Coefficient>4x</Coefficient>
+        <IndexNumber>5</IndexNumber>
+    </MonoialOne>
+    <MonoialTow>
+        <Coefficient>-7x</Coefficient>
+        <IndexNumber>3</IndexNumber>
+    </MonoialTow>
+    <MonoialThree>
+        <Coefficient>2x</Coefficient>
+        <IndexNumber>2</IndexNumber>
+    </MonoialThree>
+    <MonoialFour>
+        <Coefficient>4x</Coefficient>
+        <IndexNumber>0</IndexNumber>
+    </MonoialFour>
+</Polynomial>

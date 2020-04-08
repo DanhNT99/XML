@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomerLisr>
+    <Customer1 FirtName = "Bruce" MiddleIntial = "" LastName = "Lee"/>
+    <Customer2 FirtName = "Long" MiddleIntial = "Tieu" LastName = "Ly"/>
+</CustomerLisr>
